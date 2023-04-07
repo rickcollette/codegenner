@@ -85,6 +85,7 @@ func main() {
         }
 
         code := response.Choices[0].Text
-        fmt.Printf("\nFunction:\n%s", code)
+        fmt.Printf("\nFunction:\n%s\n", code)
     }
 }
+
