@@ -1,0 +1,4 @@
+OVERVIEW: A simple program that prints "Hello, World!" to the console.
+LANGUAGE: go
+FUNCTION_NAME: main
+DESCRIPTION: Print "Hello, World!" to the console.
