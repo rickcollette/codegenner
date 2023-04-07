@@ -15,6 +15,11 @@ go build -o codegenner main.go
 ## Usage:
 
 1. Set the OPENAI_API_KEY environment variable with your OpenAI API key.
+
+```
+export OPENAI_API_KEY=your_api_key_here
+```
+
 2. Create an input file with the following format:
 
 ```
